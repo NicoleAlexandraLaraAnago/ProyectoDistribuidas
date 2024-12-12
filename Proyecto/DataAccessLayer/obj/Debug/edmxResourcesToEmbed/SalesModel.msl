@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Sales_DBModelStoreContainer" CdmEntityContainer="Sales_DBEntities">
+    <EntitySetMapping Name="Categories">
+      <EntityTypeMapping TypeName="Sales_DBModel.Categories">
+        <MappingFragment StoreEntitySet="Categories">
+          <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="CategoryID" ColumnName="CategoryID" />
+          <ScalarProperty Name="CategoryName" ColumnName="CategoryName" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="Sales_DBModel.Products">
+        <MappingFragment StoreEntitySet="Products">
+          <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="ProductID" ColumnName="ProductID" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="CategoryID" ColumnName="CategoryID" />
+          <ScalarProperty Name="UnitPrice" ColumnName="UnitPrice" />
+          <ScalarProperty Name="UnitsInStock" ColumnName="UnitsInStock" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AuditLogs">
+      <EntityTypeMapping TypeName="Sales_DBModel.AuditLogs">
+        <MappingFragment StoreEntitySet="AuditLogs">
+          <ScalarProperty Name="IPAddress" ColumnName="IPAddress" />
+          <ScalarProperty Name="Timestamp" ColumnName="Timestamp" />
+          <ScalarProperty Name="Action" ColumnName="Action" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="LogID" ColumnName="LogID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="Sales_DBModel.Roles">
+        <MappingFragment StoreEntitySet="Roles">
+          <ScalarProperty Name="RoleName" ColumnName="RoleName" />
+          <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sessions">
+      <EntityTypeMapping TypeName="Sales_DBModel.Sessions">
+        <MappingFragment StoreEntitySet="Sessions">
+          <ScalarProperty Name="Expiration" ColumnName="Expiration" />
+          <ScalarProperty Name="Token" ColumnName="Token" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="SessionID" ColumnName="SessionID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="Sales_DBModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="PasswordHash" ColumnName="PasswordHash" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

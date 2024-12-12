@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ordenador\\Desktop\\Semestre Oct-Mar2025\\Aplicaci\u00F3nes Distribuidas\\AppCapas_Sales\\AppCapas_Sales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBD6C51-07D8-45A8-9ACB-68CAB42F82FC}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\ordenador\\desktop\\semestre oct-mar2025\\aplicaci\u00F3nes distribuidas\\appcapas_sales\\appcapas_sales\\dataaccesslayer\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBD6C51-07D8-45A8-9ACB-68CAB42F82FC}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EFRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Desktop\\Semestre Oct-Mar2025\\Aplicaci\u00F3nes Distribuidas\\AppCapas_Sales\\AppCapas_Sales\\DataAccessLayer\\EFRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EFRepository.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\Desktop\\Semestre Oct-Mar2025\\Aplicaci\u00F3nes Distribuidas\\AppCapas_Sales\\AppCapas_Sales\\DataAccessLayer\\EFRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\EFRepository.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:50:35.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

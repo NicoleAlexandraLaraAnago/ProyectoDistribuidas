@@ -1,0 +1,36 @@
+﻿@model List<Entities.Products>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <title>Lista de Productos</title>
+</head>
+<body>
+    <h1>Productos en la Categoría</h1>
+    @if (Model != null && Model.Any())
+    {
+        <table border="1">
+            <tr>
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Precio unitario</th>
+                <th>Unidades en existencia</th>
+            </tr>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.ProductID</td>
+                    <td>@product.ProductName</td>
+                    <td>@product.UnitPrice</td>
+                    <td>@product.UnitsInStock</td>
+                </tr>
+            }
+        </table>
+    }
+    else
+    {
+        <p>No se encontraron productos en esta categoría.</p>
+    }
+</body>
+</html>

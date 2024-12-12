@@ -1,0 +1,20 @@
+C:\Users\MATIAS\source\repos\AppCapas_Sales\SLC\bin\Debug\SLC.dll
+C:\Users\MATIAS\source\repos\AppCapas_Sales\SLC\bin\Debug\SLC.pdb
+C:\Users\MATIAS\source\repos\AppCapas_Sales\SLC\bin\Debug\Entities.dll
+C:\Users\MATIAS\source\repos\AppCapas_Sales\SLC\bin\Debug\Entities.pdb
+C:\Users\MATIAS\source\repos\AppCapas_Sales\SLC\bin\Debug\Entities.dll.config
+C:\Users\MATIAS\source\repos\AppCapas_Sales\SLC\obj\Debug\SLC.csproj.AssemblyReference.cache
+C:\Users\MATIAS\source\repos\AppCapas_Sales\SLC\obj\Debug\SLC.csproj.CoreCompileInputs.cache
+C:\Users\MATIAS\source\repos\AppCapas_Sales\SLC\obj\Debug\SLC.csproj.Up2Date
+C:\Users\MATIAS\source\repos\AppCapas_Sales\SLC\obj\Debug\SLC.dll
+C:\Users\MATIAS\source\repos\AppCapas_Sales\SLC\obj\Debug\SLC.pdb
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\SLC\bin\Debug\SLC.dll
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\SLC\bin\Debug\SLC.pdb
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\SLC\bin\Debug\Entities.dll
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\SLC\bin\Debug\Entities.pdb
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\SLC\bin\Debug\Entities.dll.config
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\SLC\obj\Debug\SLC.csproj.AssemblyReference.cache
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\SLC\obj\Debug\SLC.csproj.CoreCompileInputs.cache
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\SLC\obj\Debug\SLC.csproj.Up2Date
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\SLC\obj\Debug\SLC.dll
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\SLC\obj\Debug\SLC.pdb

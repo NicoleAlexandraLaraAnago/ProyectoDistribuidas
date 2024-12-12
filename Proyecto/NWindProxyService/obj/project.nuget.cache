@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yE4FfPesSHo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ordenador\\Desktop\\Semestre Oct-Mar2025\\Aplicaciónes Distribuidas\\AppCapas_Sales\\NWindProxyService\\NWindProxyService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ordenador\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ordenador\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Ordenador\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
