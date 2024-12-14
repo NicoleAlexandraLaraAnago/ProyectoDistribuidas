@@ -1,0 +1,30 @@
+C:\Users\MATIAS\source\repos\AppCapas_Sales\BLL\bin\Debug\BLL.dll
+C:\Users\MATIAS\source\repos\AppCapas_Sales\BLL\bin\Debug\BLL.pdb
+C:\Users\MATIAS\source\repos\AppCapas_Sales\BLL\bin\Debug\DataAccessLayer.dll
+C:\Users\MATIAS\source\repos\AppCapas_Sales\BLL\bin\Debug\Entities.dll
+C:\Users\MATIAS\source\repos\AppCapas_Sales\BLL\bin\Debug\EntityFramework.dll
+C:\Users\MATIAS\source\repos\AppCapas_Sales\BLL\bin\Debug\DataAccessLayer.pdb
+C:\Users\MATIAS\source\repos\AppCapas_Sales\BLL\bin\Debug\DataAccessLayer.dll.config
+C:\Users\MATIAS\source\repos\AppCapas_Sales\BLL\bin\Debug\Entities.pdb
+C:\Users\MATIAS\source\repos\AppCapas_Sales\BLL\bin\Debug\Entities.dll.config
+C:\Users\MATIAS\source\repos\AppCapas_Sales\BLL\bin\Debug\EntityFramework.xml
+C:\Users\MATIAS\source\repos\AppCapas_Sales\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\MATIAS\source\repos\AppCapas_Sales\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\MATIAS\source\repos\AppCapas_Sales\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\MATIAS\source\repos\AppCapas_Sales\BLL\obj\Debug\BLL.dll
+C:\Users\MATIAS\source\repos\AppCapas_Sales\BLL\obj\Debug\BLL.pdb
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\BLL\bin\Debug\BLL.dll
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\BLL\bin\Debug\BLL.pdb
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\BLL\bin\Debug\DataAccessLayer.dll
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\BLL\bin\Debug\Entities.dll
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\BLL\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\BLL\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\BLL\bin\Debug\Entities.pdb
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\BLL\bin\Debug\Entities.dll.config
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\BLL\obj\Debug\BLL.dll
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\BLL\obj\Debug\BLL.pdb

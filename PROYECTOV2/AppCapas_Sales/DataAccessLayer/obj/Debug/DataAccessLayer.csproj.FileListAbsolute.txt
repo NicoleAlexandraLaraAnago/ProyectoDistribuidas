@@ -1,0 +1,30 @@
+C:\Users\MATIAS\source\repos\AppCapas_Sales\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\MATIAS\source\repos\AppCapas_Sales\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\MATIAS\source\repos\AppCapas_Sales\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\MATIAS\source\repos\AppCapas_Sales\DataAccessLayer\bin\Debug\Entities.dll
+C:\Users\MATIAS\source\repos\AppCapas_Sales\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\MATIAS\source\repos\AppCapas_Sales\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MATIAS\source\repos\AppCapas_Sales\DataAccessLayer\bin\Debug\Entities.pdb
+C:\Users\MATIAS\source\repos\AppCapas_Sales\DataAccessLayer\bin\Debug\Entities.dll.config
+C:\Users\MATIAS\source\repos\AppCapas_Sales\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\MATIAS\source\repos\AppCapas_Sales\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MATIAS\source\repos\AppCapas_Sales\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\MATIAS\source\repos\AppCapas_Sales\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MATIAS\source\repos\AppCapas_Sales\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\MATIAS\source\repos\AppCapas_Sales\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\MATIAS\source\repos\AppCapas_Sales\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\DataAccessLayer\bin\Debug\Entities.dll
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\DataAccessLayer\bin\Debug\Entities.pdb
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\DataAccessLayer\bin\Debug\Entities.dll.config
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Ordenador\Desktop\Semestre Oct-Mar2025\Aplicaciónes Distribuidas\AppCapas_Sales\AppCapas_Sales\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
